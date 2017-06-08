@@ -1,0 +1,50 @@
+
+body {
+	
+	width: 1280px;
+	margin: auto;
+	padding: 10px 10px 0px 0px;
+}
+
+.chat {
+	
+	width: 1000px;
+	float: left;
+	margin: 0px 10px 0px 0px;
+}
+
+.users {
+	
+	float:left;
+	height: 576px;
+	width: 260px;
+}
+
+.chat .content {
+	
+	height: 500px;
+	margin: 0px 0px 10px 0px;
+}
+
+.message_sender {
+	
+	float: left;
+	font-weight: bold;
+}
+
+.message_separator {
+	
+	float: left;
+	width: 15px;
+}
+
+.panel {
+	
+	height: 100%;
+}
+
+.form-control {
+	
+	width: 400px;
+}
+
